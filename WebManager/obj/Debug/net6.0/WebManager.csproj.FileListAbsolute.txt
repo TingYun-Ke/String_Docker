@@ -1,0 +1,17 @@
+C:\Users\annie\OneDrive\桌面\String_Docker_Core\WebManager\obj\Debug\net6.0\WebManager.csproj.AssemblyReference.cache
+C:\Users\annie\OneDrive\桌面\String_Docker_Core\WebManager\obj\Debug\net6.0\WebManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\annie\OneDrive\桌面\String_Docker_Core\WebManager\obj\Debug\net6.0\WebManager.AssemblyInfoInputs.cache
+C:\Users\annie\OneDrive\桌面\String_Docker_Core\WebManager\obj\Debug\net6.0\WebManager.AssemblyInfo.cs
+C:\Users\annie\OneDrive\桌面\String_Docker_Core\WebManager\obj\Debug\net6.0\WebManager.csproj.CoreCompileInputs.cache
+C:\Users\annie\OneDrive\桌面\String_Docker_Core\WebManager\obj\Debug\net6.0\WebManager.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\annie\OneDrive\桌面\String_Docker_Core\WebManager\obj\Debug\net6.0\WebManager.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\annie\OneDrive\桌面\String_Docker_Core\WebManager\obj\Debug\net6.0\WebManager.dll
+C:\Users\annie\OneDrive\桌面\String_Docker_Core\WebManager\obj\Debug\net6.0\refint\WebManager.dll
+C:\Users\annie\OneDrive\桌面\String_Docker_Core\WebManager\obj\Debug\net6.0\WebManager.pdb
+D:\Systex\String_Docker_Core\WebManager\obj\Debug\net6.0\WebManager.csproj.AssemblyReference.cache
+D:\Systex\String_Docker_Core\WebManager\obj\Debug\net6.0\WebManager.GeneratedMSBuildEditorConfig.editorconfig
+D:\Systex\String_Docker_Core\WebManager\obj\Debug\net6.0\WebManager.AssemblyInfoInputs.cache
+D:\Systex\String_Docker_Core\WebManager\obj\Debug\net6.0\WebManager.AssemblyInfo.cs
+D:\Systex\String_Docker_Core\WebManager\obj\Debug\net6.0\WebManager.csproj.CoreCompileInputs.cache
+D:\Systex\String_Docker_Core\WebManager\obj\Debug\net6.0\WebManager.MvcApplicationPartsAssemblyInfo.cs
+D:\Systex\String_Docker_Core\WebManager\obj\Debug\net6.0\WebManager.MvcApplicationPartsAssemblyInfo.cache

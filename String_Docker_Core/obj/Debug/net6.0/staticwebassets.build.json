@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "p0Th3ghOLjzxQ1PYeFyfIhvGcHyo9+i5BpJDosyBGmI=",
+  "Source": "String_Docker_Core",
+  "BasePath": "_content/String_Docker_Core",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
