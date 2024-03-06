@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WX2kFziSsSNJj5jsSVhCsc9Vv42bNBw01nU2mzDuM7gZwqpSco7W+vnaw/5UN6Sc6EHXXtKrxYLvJ/KS2NvAbQ==",
+  "dgSpecHash": "gvy+/joNSme6Oo6Y8pRIVbIQXYHevx+rjDDfXWroFojzx3lR5uBq3EJPvnXq5dyoGF1ePYn8wpFdihs1/Si7MQ==",
   "success": true,
-  "projectFilePath": "D:\\Systex\\String_Docker_Core\\String_Docker_Core\\String_Docker_Core.csproj",
+  "projectFilePath": "D:\\Systex\\StringDocker\\String_Docker_Core\\String_Docker_Core.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

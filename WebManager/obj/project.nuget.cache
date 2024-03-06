@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "giP2ifSmOLQEKrqx2ubtEHj6UQB9NGNJx8xcT328bPaZZTKmmWqh+YQeUZ2XF4DdLWGaeODgtKnB1jfgwvjlbQ==",
+  "dgSpecHash": "H43O2D71G3M8Q8/UcM7/NJewqXqAcoNzaaMAgXzxegVoJXQ5oHP/Yzzejl64ZLHUzIOLHk7gGE7Eyl3EAORKFA==",
   "success": true,
-  "projectFilePath": "D:\\Systex\\String_Docker_Core\\WebManager\\WebManager.csproj",
+  "projectFilePath": "D:\\Systex\\StringDocker\\WebManager\\WebManager.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mp6wu\\.nuget\\packages\\log4net\\2.0.15\\log4net.2.0.15.nupkg.sha512",
     "C:\\Users\\mp6wu\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",

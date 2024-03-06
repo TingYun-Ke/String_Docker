@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Systex\\String_Docker_Core\\String_Docker_Core\\String_Docker_Core.csproj",
+      "projectUniqueName": "D:\\Systex\\StringDocker\\String_Docker_Core\\String_Docker_Core.csproj",
       "projectName": "String_Docker_Core",
-      "projectPath": "D:\\Systex\\String_Docker_Core\\String_Docker_Core\\String_Docker_Core.csproj",
+      "projectPath": "D:\\Systex\\StringDocker\\String_Docker_Core\\String_Docker_Core.csproj",
       "packagesPath": "C:\\Users\\mp6wu\\.nuget\\packages\\",
-      "outputPath": "D:\\Systex\\String_Docker_Core\\String_Docker_Core\\obj\\",
+      "outputPath": "D:\\Systex\\StringDocker\\String_Docker_Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

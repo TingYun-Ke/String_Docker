@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Systex\\String_Docker_Core\\WebManager\\WebManager.csproj": {}
+    "D:\\Systex\\StringDocker\\WebManager\\WebManager.csproj": {}
   },
   "projects": {
-    "D:\\Systex\\String_Docker_Core\\WebManager\\WebManager.csproj": {
+    "D:\\Systex\\StringDocker\\WebManager\\WebManager.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Systex\\String_Docker_Core\\WebManager\\WebManager.csproj",
+        "projectUniqueName": "D:\\Systex\\StringDocker\\WebManager\\WebManager.csproj",
         "projectName": "WebManager",
-        "projectPath": "D:\\Systex\\String_Docker_Core\\WebManager\\WebManager.csproj",
+        "projectPath": "D:\\Systex\\StringDocker\\WebManager\\WebManager.csproj",
         "packagesPath": "C:\\Users\\mp6wu\\.nuget\\packages\\",
-        "outputPath": "D:\\Systex\\String_Docker_Core\\WebManager\\obj\\",
+        "outputPath": "D:\\Systex\\StringDocker\\WebManager\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
